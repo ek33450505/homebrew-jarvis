@@ -3,7 +3,7 @@ class Jarvis < Formula
   homepage "https://github.com/ek33450505/jarvis"
   url "https://github.com/ek33450505/jarvis/archive/refs/tags/v0.1.0.tar.gz"
   version "0.1.0"
-  sha256 "PLACEHOLDER"  # Update after tagging v0.1.0 and computing: shasum -a 256 v0.1.0.tar.gz
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
   license "MIT"
 
   def install
