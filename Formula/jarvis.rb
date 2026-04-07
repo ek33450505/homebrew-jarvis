@@ -1,9 +1,9 @@
 class Jarvis < Formula
   desc "JARVIS Personal Assistant — 8 pa-* Claude Code agents with launchd scheduling"
-  homepage "https://github.com/ek33450505/jarvis"
-  url "https://github.com/ek33450505/jarvis/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/ek33450505/JARVIS"
+  url "https://github.com/ek33450505/JARVIS/archive/refs/tags/v0.1.0.tar.gz"
   version "0.1.0"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "79b00464893ba657a84644795136d935f7e8de0c722e558223b254218b8b688f"
   license "MIT"
 
   def install
