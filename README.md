@@ -1,5 +1,7 @@
 # homebrew-jarvis
 
+> **ARCHIVED** — JARVIS has been retired. Personal assistant agents now run via Anthropic RemoteTrigger + cron. This Homebrew tap is no longer maintained.
+
 Homebrew tap for [JARVIS Personal Assistant](https://github.com/ek33450505/jarvis).
 
 ## Install
